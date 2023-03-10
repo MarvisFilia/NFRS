@@ -1,0 +1,6 @@
+[book]
+authors = ["MarvisFilia"]
+language = "en"
+multilingual = false
+src = "src"
+title = "NFRS"
